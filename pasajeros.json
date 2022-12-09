@@ -1,0 +1,40 @@
+[{
+   "nombre":"Cristian",
+   "apellido":"Soplan",
+   "edad": 35,
+"precioAsiento": 200.35,
+"pagado":true,
+"asiento":{
+    "numero":13,
+    "letra":"F",
+    "cargador": false
+},
+"historial":[
+    {
+    "salida":"new york",
+    "destino":"alabama",
+    "fecha":"12/12/2022"
+},
+{
+    "salida":"barcelona",
+    "destino":"londres",
+    "fecha":"12/1/2023"
+}
+]
+},
+{
+    "nombre":"Daniel",
+    "apellido":"Belgrano",
+    "edad": 35,
+ "precioAsiento": 200.35,
+ "pagado":false,
+ "asiento":{
+     "numero":12,
+     "letra":"g",
+     "cargador": false
+ },
+ "historial": []
+}
+]
+
+
